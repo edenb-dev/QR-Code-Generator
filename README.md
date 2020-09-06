@@ -4,12 +4,15 @@ with simple text input, and export the generated image in png / jpeg formats.
 
 ## How to use :
 
-Open the Main.py file.<br/>
-Click on the text field.<br/>
-Write your message.<br/>
-Click the "Generate QR" button.
+### Generating the QR code.
 
-## How to export the QR code :
+1. Open the Main.py file.<br/>
+2. Click on the text field.<br/>
+3. Write your message.<br/>
+4. Click the "Generate QR" button.
 
-After generating the QR code, simply press the button below it.
-Pick a name and format, than and press save.
+### How to export the QR code :
+
+After generating the QR code, simply press the button below it.<br/>
+Pick a name, path and format.<br/>
+Press save, and enjoy.<br/>
