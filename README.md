@@ -2,7 +2,7 @@
 Python GUI program that enables the user to generate QR codes,
 with simple text input, and export the generated image in png / jpeg formats.
 
-## How to use :
+### How to use :
 
 Open the Main.py file.<br/>
 Click on the text field.<br/>
