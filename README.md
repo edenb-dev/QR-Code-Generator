@@ -13,9 +13,9 @@ with simple text input, and export the generated image in png / jpeg formats.
 
 ### How to export the QR code :
 
-After generating the QR code, simply press the button below it.<br/>
-Pick a name, path and format.<br/>
-Press save, and enjoy.<br/>
+1. After generating the QR code, simply press the button below it.<br/>
+2. Pick a name, path and format.<br/>
+3. Press save, and enjoy.<br/>
 
 ## Built With
 
