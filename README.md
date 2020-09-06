@@ -4,9 +4,9 @@ with simple text input, and export the generated image in png / jpeg formats.
 
 ## How to use :
 
-Open the Main.py file.__
-Click on the text field.__
-Write your message.__
+Open the Main.py file.<br/>
+Click on the text field.<br/>
+Write your message.<br/>
 Click the "Generate QR" button.
 
 ## How to export the QR code :
