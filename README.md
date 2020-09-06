@@ -16,3 +16,8 @@ with simple text input, and export the generated image in png / jpeg formats.
 After generating the QR code, simply press the button below it.<br/>
 Pick a name, path and format.<br/>
 Press save, and enjoy.<br/>
+
+## Built With
+
+* [PyQt5](https://pypi.org/project/PyQt5/) - The GUI framework used.<br/>
+* [qrcode](https://pypi.org/project/qrcode/) - Used to generate QR codes. 
